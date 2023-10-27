@@ -13,7 +13,7 @@ A two sample t-test was performed to verify the hypothesis.
 Hypothesis 3 - An educational consultancy claims that students receive a mean score of 70 or more on average.
 A one sample t-test was conducted to confirm the hypothesis.
 
-Hypothesis 2 - There is no relation between the gender of a student and their corresponding academic performance. 
+Hypothesis 4 - There is no relation between the gender of a student and their corresponding academic performance. 
 The chi-square test of independence was performed to test the significance between these two variables.
 
 
